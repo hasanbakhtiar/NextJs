@@ -1,2 +1,2 @@
-# NextJs Lesson Example
+# NextJs
 this repo for NextJs
